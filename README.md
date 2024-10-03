@@ -1,4 +1,4 @@
-# Employee Management Database (Using Oracle as RDBMS)
+# school Management Database (Using Oracle as RDBMS)
 
 This README provides an overview of a simple school database structure using four tables: Student, Teacher, Class, and Enrollment. The tables were crafted to maintain data integrity using primary and foreign key constraints. The Student table holds information about each student, the Teacher table stores teacher details, the Class table tracks various classes offered and their associated teachers, and the Enrollment table links students to classes, indicating which students are enrolled in which classes.
 ## Table Structures
