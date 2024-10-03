@@ -88,7 +88,7 @@ VALUES ('David', 'Habimana', TO_DATE('2003-05-02', 'YYYY-MM-DD'), 'Male', 'Nyama
 
 ```
 
-## nsert Departments
+## insert Departments
 
 ```sql 
 INSERT INTO Teacher (first_name, last_name, subject, phone_number, email) 
